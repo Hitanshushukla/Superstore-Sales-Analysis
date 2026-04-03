@@ -43,19 +43,40 @@ The Power BI dashboard includes:
 ![Dashboard Page 2](page2.png)
 
 ---
+## 🔍 SQL Analysis
 
+Performed detailed analysis using SQL:
+
+### 1. KPI Analysis
+- Total revenue and profit calculation  
+- Total quantity sold  
+- Average order value using distinct order IDs  
+
+### 2. Time-Based Analysis
+- Yearly sales and profit trends  
+- Monthly revenue trends for specific year  
+
+### 3. Regional & Category Insights
+- Region-wise revenue and profitability  
+- Category-wise performance comparison  
+
+### 4. Product-Level Analysis
+- Top products by revenue  
+- Top products by profit
+---
 ## 🔍 Key Insights
-- Technology category drives the highest revenue but moderate profitability
-- Several products show high sales but negative profit → pricing inefficiencies
-- Sales show seasonal trends with identifiable peak periods
-- Top products contribute disproportionately to total revenue
+- Certain categories generate high revenue but relatively lower profit margins  
+- Some products contribute high sales but may not be highly profitable  
+- Sales trends show variation across months and years  
+- Revenue is concentrated in top-performing products and regions 
 
 ---
 
 ## 💡 Business Recommendations
-- Focus on high-margin categories to improve profitability
-- Re-evaluate pricing strategies for loss-making products
-- Leverage seasonal trends for targeted marketing campaigns
+- Focus on high-margin categories to improve profitability  
+- Re-evaluate pricing and discount strategies for low-profit products  
+- Target high-performing regions for expansion  
+- Optimize product portfolio by promoting profitable products 
 
 ---
 
