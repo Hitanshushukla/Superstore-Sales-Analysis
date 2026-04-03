@@ -34,7 +34,13 @@ The Power BI dashboard includes:
 - Top 10 products by sales and profit
 - Profitability insights
 
-(Add screenshots here later)
+### Dashboard Screenshots
+
+#### Page 1 – Sales & Profit Trends
+![Dashboard Page 1](page1.png)
+
+#### Page 2 – Category & Product Insights
+![Dashboard Page 2](page2.png)
 
 ---
 
